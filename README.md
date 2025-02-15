@@ -1,1 +1,2 @@
 # Working-Capital_Analysis_Report
+This Power BI project analyzes working capital trends, highlighting cash flow, short term liabilities and liquidity efficiency. Key insights include rising reserves, fluctuating accounts receivable and improved cash reserves. Strategic debt management and operational efficiency drive financial stability, enabling data driven decisions for better liquidity and sustainable business growth.
